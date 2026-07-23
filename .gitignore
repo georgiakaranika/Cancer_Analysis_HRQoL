@@ -1,8 +1,6 @@
 # Dataset files
-Data/*.xpt
-Data/*.XPT
-Data/*.csv
-Data/*.zip
+Data/data_raw/
+Data/data_processed/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
