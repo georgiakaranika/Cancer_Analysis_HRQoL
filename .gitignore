@@ -1,3 +1,9 @@
+# Dataset files
+Data/*.xpt
+Data/*.XPT
+Data/*.csv
+Data/*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
