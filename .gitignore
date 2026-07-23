@@ -1,6 +1,10 @@
 # Dataset files
-Data/data_raw/
-Data/data_processed/
+data/data_raw/*
+data/data_processed/*
+
+# Keep folder structure
+!data/data_raw/.gitkeep
+!data/data_processed/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
